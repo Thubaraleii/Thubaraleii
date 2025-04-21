@@ -8,8 +8,6 @@
 
 📫 Reach me at: [afonso.hj17@gmail.com](mailto:afonso.hj17@gmail.com)  
 
-✨ Fun fact: I believe technology is the key to unlocking the Earth’s deepest secrets.
-
 
 <!---
 Thubaraleii/Thubaraleii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
